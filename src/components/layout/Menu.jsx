@@ -8,6 +8,8 @@ const Menu = props => (
             <ul>
                 <li><a href="/">Início</a></li>
                 <li><a href="about">Sobre</a></li>
+                <li><a href="param/id">Param #01</a></li>
+                <li><a href="param">Param #02</a></li>
             </ul>
         </nav>
     </aside>
